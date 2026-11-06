@@ -7,4 +7,4 @@ HTML/CSS/JS frontend + Express.js backend + MySQL database.
 3. Copy `.env.example` to `.env` and put your MySQL password in it.
 4. `npm start` then open http://localhost:3000
 
-The database and tables are created automatically. Admin login: `admin@madhu.com` / `Admin@123` (change it after first login).
+create an account and add the complaint you will get respone of it later.
